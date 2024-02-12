@@ -44,7 +44,7 @@ int main()
 	int *tab,
 	n;
 	
-	cout<<"Ile liczb będziesz chciał posortować? ";
+	cout<<"Ile liczb chcesz posortowac? ";
 	cin>>n;
 	tab = new int[n]; 
 	pom = new int[n];
